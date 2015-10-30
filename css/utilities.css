@@ -1,0 +1,56 @@
+body , html{
+	width: 100%;
+}
+
+a{
+	list-style: none;
+}
+
+.text-center{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+.text-left{
+	text-align: left;
+}
+.pd-5{
+	padding: 5%;
+}
+.pt-12-2{
+	padding: 12% 2%;
+}
+
+/*LOGIN*/
+ul{
+	padding: 3%;
+}
+.fa{
+	margin-left: 3%;
+}
+i{
+	padding:2%;
+}
+
+.fb:hover{
+	background: #3359A0;
+	color: white;
+	-webkit-transition: background 2s linear;
+	-moz-transition: background 2s linear;
+	-ms-transition: background 2s linear;
+	-o-transition: background 2s linear;
+	transition: background 2s linear;
+}
+.tw:hover{
+	background: #0CADDB;
+	color: white;
+	-webkit-transition: background 2s linear;
+	-moz-transition: background 2s linear;
+	-ms-transition: background 2s linear;
+	-o-transition: background 2s linear;
+	transition: background 2s linear;
+}
+
+/*DASHBOARD*/
+
